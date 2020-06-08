@@ -1,3 +1,7 @@
+## Things I learned
+* Lifting a state to parent component
+* Basic React syntax
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
