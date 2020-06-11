@@ -15,7 +15,6 @@ function Square(props) {
     );
 }
 
-
 //props: squares, onClick
 class Board extends React.Component {
 
@@ -50,7 +49,6 @@ class Board extends React.Component {
 }
 
 class Game extends React.Component {
-
     constructor(props) {
         super(props);
         this.state = {
@@ -79,8 +77,6 @@ class Game extends React.Component {
             xIsNext: !this.state.xIsNext,
             currentStep: this.state.currentStep + 1,
         });
-
-        
     }
 
     jumpTo(oldMove) {
