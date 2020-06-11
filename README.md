@@ -1,6 +1,7 @@
 ## Things I learned
 * Lifting a state to parent component
-* Basic React syntax
+* Basic React syntax: props, arrow fxns, states, constructors
+* 'this' explicitly declared in an arrow fxn
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
